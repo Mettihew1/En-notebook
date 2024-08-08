@@ -1,0 +1,8 @@
+.text{
+  min-height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 10px solid black;
+  background-color: blue;
+}
